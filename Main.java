@@ -7,6 +7,7 @@ public class Main{
         System.out.println(cardDeck.cards.get(1));
         String shape = cardDeck.cards.get(1).getNumber(); //카드번호 가져오기
         System.out.println(shape); 
+        System.out.println("Test");
        
     }
 }
